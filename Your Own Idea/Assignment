@@ -1,0 +1,1 @@
+Create a file (a simple "Hello World" txt file would work). Send that file to another computer using SCP. Using SSH, take remote access of the other computer. Locate the documents file, and change the permissions of the file to allow rw for all users. 
